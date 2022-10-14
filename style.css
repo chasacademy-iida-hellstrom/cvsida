@@ -66,9 +66,7 @@ nav {
     align-items: center;
     }
  
-    .column2, div {
-      padding: 20px;
-    }
+   
   
   .column3 {
     width: 30%;
@@ -148,7 +146,8 @@ p {font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif
      display: grid; 
      grid-template-columns: repeat(2, 2fr);
      grid-template-rows: repeat(2, 2fr);
-  justify-content: center;
+     justify-content: center;
+    
   
 }
 
